@@ -55,11 +55,3 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-
-//! const visibleContacts = contacts.filter(element => element.userName.toUpperCase().includes(filter.toUpperCase()) );
-
-//! Чи доцільно було visibleContacts пхати в стейти ?
-
-//! Чи можна було б запхати в якусь локальну змінну типу
-
-//! як правильніше, бо робить і так і так.
